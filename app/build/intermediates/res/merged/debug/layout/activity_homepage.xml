@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_homepage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="bol.xavier.gestionscore.screen.HomepageActivity">
+
+    <Button
+        android:id="@+id/btn_ajoutScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_ajoutScore"/>
+
+    <Button
+        android:id="@+id/btn_topGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_topGame"/>
+
+    <Button
+        android:id="@+id/btn_listGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_listGame"/>
+
+    <Button
+        android:id="@+id/btn_listUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_listUser"/>
+
+    <TextView
+        android:id="@+id/tv_errorHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorRed"/>
+</LinearLayout>

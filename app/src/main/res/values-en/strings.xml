@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GestionScore</string>
+    <string name="login">login...</string>
+    <string name="confirmPassword">confirm password...</string>
+    <string name="logon">logon</string>
+    <string name="newLogin">new login...</string>
+    <string name="newPassword">new password...</string>
+    <string name="password">password...</string>
+    <string name="register">Register</string>
+    <string name="save">Save</string>
+    <string name="titre_ConnectionActivity">Connection screen</string>
+    <string name="titre_homepageActivity">Home page</string>
+</resources>
