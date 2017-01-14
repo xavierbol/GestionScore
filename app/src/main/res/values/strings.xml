@@ -6,7 +6,7 @@
     <string name="titre_homepageActivity">Ecran d\'accueil</string>
     <string name="titre_AjoutScoreActivity">Ajout score dans un jeu</string>
     <string name="titre_TopGameActivity">Top 10 d\'un jeu</string>
-    <string name="titre_AfficherTop10Activity">Top 10</string>
+    <string name="titre_AfficherTop10Activity" translatable="false">Top 10</string>
     <string name="titre_ListGameActivity">Liste des jeux</string>
     <string name="titre_ListUserActivity">Liste des utilisateurs</string>
     <string name="titre_WizardActivity">Liste des jeux</string>
@@ -23,14 +23,14 @@
 
     <!-- Pour l'écran d'accueil -->
     <string name="btn_ajoutScore">Ajout un score</string>
-    <string name="btn_topGame">Affichier le top 10 d\'un jeu</string>
-    <string name="btn_listGame">Afficher la liste des jeux gérés actuellement par l\'application</string>
+    <string name="btn_topGame">Afficher le top 10 d\'un jeu</string>
+    <string name="btn_listGame">Afficher la liste des jeux</string>
     <string name="btn_listUser">Lister les utilisateurs</string>
 
     <!-- Ecran AjoutScore -->
     <string name="nameGame">Nom du jeu...</string>
     <string name="scoreObtenu">Score obtenu...</string>
-    <string name="btn_wizard"> + </string>
+    <string name="btn_wizard" translatable="false"> + </string>
     <string name="btn_ajouterScore">Ajouter le score</string>
 
     <!-- Ecran top 10 -->
@@ -39,22 +39,22 @@
     <!-- Ecran listes jeux -->
     <string name="btn_previous">Précédent</string>
     <string name="btn_next">Suivant</string>
-    <string name="btnTop10">Top 10</string>
+    <string name="btnTop10" translatable="false">Top 10</string>
 
     <!-- Ecran afficher top 10 -->
-    <string name="tv_position">Pos.</string>
-    <string name="tv_pseudo">Pseudo</string>
-    <string name="tv_score">Score</string>
-    <string name="tv_position1">1</string>
-    <string name="tv_position2">2</string>
-    <string name="tv_position3">3</string>
-    <string name="tv_position4">4</string>
-    <string name="tv_position5">5</string>
-    <string name="tv_position6">6</string>
-    <string name="tv_position7">7</string>
-    <string name="tv_position8">8</string>
-    <string name="tv_position9">9</string>
-    <string name="tv_position10">10</string>
+    <string name="tv_position" translatable="false">Pos.</string>
+    <string name="tv_pseudo" translatable="false">Pseudo</string>
+    <string name="tv_score" translatable="false">Score</string>
+    <string name="tv_position1" translatable="false">1</string>
+    <string name="tv_position2" translatable="false">2</string>
+    <string name="tv_position3" translatable="false">3</string>
+    <string name="tv_position4" translatable="false">4</string>
+    <string name="tv_position5" translatable="false">5</string>
+    <string name="tv_position6" translatable="false">6</string>
+    <string name="tv_position7" translatable="false">7</string>
+    <string name="tv_position8" translatable="false">8</string>
+    <string name="tv_position9" translatable="false">9</string>
+    <string name="tv_position10" translatable="false">10</string>
 
     <string name="error404">Impossible d\'accéder à la page web contenant le RPC</string>
     <!-- Code de retour pour le script "se_connecter.php" -->
