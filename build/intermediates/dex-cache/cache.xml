@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8fdff00af861f404b13049c647fcc0421bd6ed5c">
+        sha1="1e22f032a75eb0d93bd8086fd2b43ecb8a5a3525">
         <dex dex="/home/xavier/Bureau/ProjetAndroid/ProjetAndroid/Projet/GestionScore/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_85afeebac6e8fb60b67d30b79bfe0fe183b9624b/classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1d19f435feddc337c63a9289207d79ee95527f24">
+        sha1="4d973485dd569a93c023166bcf180c03d568edfc">
         <dex dex="/home/xavier/Bureau/ProjetAndroid/ProjetAndroid/Projet/GestionScore/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5dac9141ddaad796662d2ed904c52e23d4fb661b/classes.dex" />
     </item>
     <item

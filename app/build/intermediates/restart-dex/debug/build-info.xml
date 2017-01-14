@@ -5,33 +5,40 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="15985160401992"
+    timestamp="22719227272447"
     token="-4492640641264837480"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="505" />
+        duration="1165" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="244" />
+        duration="415" />
     <task
         name="verifier"
-        duration="9" />
+        duration="1" />
 
     <artifact
-        location="/home/xavier/Bureau/ProjetAndroid/ProjetAndroid/Projet/GestionScore/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/xavier/Bureau/ProjetAndroid/ProjetAndroid/Projet/GestionScore/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="15985160401992"
+        timestamp="22536376258729"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/xavier/Bureau/ProjetAndroid/ProjetAndroid/Projet/GestionScore/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="22719227272447"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/xavier/Bureau/ProjetAndroid/ProjetAndroid/Projet/GestionScore/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

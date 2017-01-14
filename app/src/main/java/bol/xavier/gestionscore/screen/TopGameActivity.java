@@ -106,7 +106,7 @@ public class TopGameActivity extends AppCompatActivity {
                 if (!joueurs.equals(""))
                 {
                     String[] top10 = rechercherTop10(joueurs);
-                    tv_top.setText(top10[0] + " " + top10[1]);
+                    //tv_top.setText(top10[0] + " " + top10[1]);
 
                     Intent intent = new Intent(TopGameActivity.this, AfficherTop10Activity.class);
                     intent.putExtra("pseudo", top10[0]);
